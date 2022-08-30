@@ -1,4 +1,4 @@
-# readme
+# README
 ### zotero username vattem.saipriyanka@gmail.com
 ### github repo link https://github.com/priyasaugithub/mcis6273-F22-datamining
 
